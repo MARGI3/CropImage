@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CropImage</string>
+    <string name="button_text">Do Crop</string>
+</resources>
